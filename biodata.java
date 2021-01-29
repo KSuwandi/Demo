@@ -20,3 +20,4 @@ public class Biodata {
         System.out.println("--- Print Biodata seminar----");
     }
     }
+// pull santuy
